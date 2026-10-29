@@ -1,0 +1,15 @@
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+
+# Environment variables and secrets
+.env
+
+# SSH private keys
+*.pem
+
+# Backup files
+*.bak
